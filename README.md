@@ -1,10 +1,10 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=AEF7CE&background=FFC3C300&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=E3CBF7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+world)](https://git.io/typing-svg)
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
 </div>
 
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ahmed-97a3691b2/">
+  <a href="www.linkedin.com/in/marah-osman">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/mohamed-ahmed-97a3691b2/">
