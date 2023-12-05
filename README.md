@@ -4,7 +4,7 @@
 </div>
 
 <div id="header" align="center">
-  <a href="www.linkedin.com/in/marah-osman">
+  <a href="http://www.linkedin.com/in/marah-osman">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.marahosman999@gmail.com">
