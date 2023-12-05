@@ -7,10 +7,10 @@
   <a href="www.linkedin.com/in/marah-osman">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://www.linkedin.com/in/mohamed-ahmed-97a3691b2/">
+   <a href="https://www.marahosman999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-   <a href="https://www.linkedin.com/in/mohamed-ahmed-97a3691b2/">
+   <a href="https://https://www.facebook.com/profile.php?id=100021659857259">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/mohamed-ahmed-97a3691b2/">
