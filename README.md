@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://www.behance.net/marahosman">
-    <img src="https://img.shields.io/badge/behance-purple?style=for-the-badge&logo=behance&logoColor=white" alt="behance Badge"/>
+    <img src="https://img.shields.io/badge/behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="behance Badge"/>
   </a>
 </div>
 <div ></div>
